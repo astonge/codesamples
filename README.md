@@ -1,4 +1,4 @@
-# H2 Code Samples
+## Code Samples
 
 * lcd - Wordpress theme.
 * codecodecode - Wordpress Theme.
