@@ -9,8 +9,7 @@ Place `listitem.py` in your `<Sublime User Folder>\Packages\User\` directory.
 
 ### Recommanded key bindings (place in Key Bindings - User):
 `[`
-
-`{"keys":["Ctrl+i"],"command":"listitem"}`
-
+`{"keys":["Ctrl+i"],"command":"listitem"},`
+`{"keys":["Ctrl+o"],"command":"ahrefitem"}`
 `]`
 
